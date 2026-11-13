@@ -1,0 +1,4 @@
+confluent-kafka
+websockets
+streamlit
+pandas

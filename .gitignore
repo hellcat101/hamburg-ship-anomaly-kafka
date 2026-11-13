@@ -1,8 +1,15 @@
-   venv/
-   .venv/
-   __pycache__/
-   *.pyc
-   .env
-   .ipynb_checkpoints/
-   data/
-   *.log
+# Large / local runtime files
+recorded_ais.jsonl
+stats_state.json
+data/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
